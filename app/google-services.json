@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773828255344",
+    "firebase_url": "https://bookish-d2afb.firebaseio.com",
+    "project_id": "bookish-d2afb",
+    "storage_bucket": "bookish-d2afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773828255344:android:1148a6894c706b33b79eb5",
+        "android_client_info": {
+          "package_name": "com.example.bookish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773828255344-vr3n86n6ivtsh7kh0o0ocukho8l2m7ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookish",
+            "certificate_hash": "ded66c73aad764007a7b40d67ddd7b05037d5a69"
+          }
+        },
+        {
+          "client_id": "773828255344-b315du9ag43a2q2qlk68mr14c8677kf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6dK0oyuTH1LD1l6yn95fB93FXVKweXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773828255344-b315du9ag43a2q2qlk68mr14c8677kf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
